@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavik Pawar</h1>
+<h1 align="center">Hello There 👋, I'm Bhavik Pawar</h1>
 <h3 align="center">A passionate Diploma Student from India</h3>
 
 - 🔭 I’m currently working on **Genomic Sequence, Analysis and Functional Annotation Prediction Software**
