@@ -1,25 +1,9 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22503
-Fork on GitHub
-7389
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Bhavik D. H. Pawar</h1>
+<h1 align="center">Hello There 👋, I'm Bhavik D. H. Pawar</h1>
 <h3 align="center">A passionate bachelor's student from India</h3>
 
 - 🔭 I’m currently working on **Genomic Sequence, Analysis and Functional Annotation Prediction Software**
 
-- 🌱 I’m studying at **Bachelor of Engineering at Guru Gobind Singh College Of Engineering And Research Centre**
+- 🌱 I’m currently studying **Bachelor of Engineering at Guru Gobind Singh College Of Engineering And Research Centre**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhavikPawar29](https://github.com/BhavikPawar29)
 
@@ -28,6 +12,8 @@ preview
 - 📫 How to reach me **bhavikdeepawar007@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tcW2O0CgKILDfWD5GAtg6P0lp4UvLBi2/view?usp=drive_link](https://drive.google.com/file/d/1tcW2O0CgKILDfWD5GAtg6P0lp4UvLBi2/view?usp=drive_link)
+
+- ⚡ Fun fact **I'm a passionate cinephile who finds joy in watching and discussing movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
