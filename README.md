@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg5.jpg" />
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg2.jpg" />
 </p>
 
 <h2 align="center">Namaste 🙏 I'm Bhavik Pawar</h2>
