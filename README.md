@@ -13,13 +13,13 @@
 <tr>
 <td width="60%">
 
-🟡 I'm currently pursuing a Bachelor's degree in Computer Engineering, actively building systems at the intersection of **AI and backend infrastructure**.
+🔭 I'm currently working on Breaking Ice, A community based ice-breaking and conversation starter platform.
+🌱 I'm currently learning Rust
+🤝 I'm looking for help with AI World Models
+💬 Ask me about **Python, C/C++, Java, Rust **
+📫 How to reach me bhavikdeepawar007@gmail.com
+⚡ Fun fact I'm a passionate cinephile who finds joy in watching and discussing movies.
 
-🟡 My focus is on **AI systems, SaaS architecture, and intelligent pipelines**.
-
-🟡 I enjoy designing systems that scale — not just run.
-
-🟡 Long-term vision: **AI-native platforms & emergent intelligence systems.**
 
 </td>
 
@@ -36,20 +36,6 @@
   <img src="https://img.shields.io/badge/Stars-15-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Followers-30-green?style=for-the-badge"/>
 </p>
-
----
-
-## ⚡ About My Work
-
--  I'm currently working on Breaking Ice, A community based ice-breaking and conversation starter platform.
--  I'm currently learning Rust
--  I'm looking for help with AI World Models
--  Ask me about **Python, C/C++, Java, Rust **
--  How to reach me bhavikdeepawar007@gmail.com
--  Fun fact I'm a passionate cinephile who finds joy in watching and discussing movies.
-
-
----
 
 ## 🔗 Connect With Me
 
