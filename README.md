@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/spiderman.jp" />
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg8.jpg" />
 </p>
 
 <h2 align="center">Namaste 🙏 I'm Bhavik Pawar</h2>
@@ -9,13 +9,25 @@
 
 ## 🧠 About Me
 
-🟡 I'm currently pursuing a Bachelor's degree in Computer Engineering while actively building AI-native systems and scalable backend architectures.  
+<table>
+<tr>
+<td width="60%">
 
-🟡 My journey focuses on combining **AI + Systems + Infrastructure** — building things that are not just functional, but intelligent and adaptive.  
+🟡 I'm currently pursuing a Bachelor's degree in Computer Engineering, actively building systems at the intersection of **AI and backend infrastructure**.
 
-🟡 I have hands-on experience developing **multi-tenant SaaS backends**, **RAG pipelines**, and **ML systems**, and I aim to specialize in **AI infrastructure and emergent systems**.
+🟡 My focus is on **AI systems, SaaS architecture, and intelligent pipelines**.
 
----
+🟡 I enjoy designing systems that scale — not just run.
+
+🟡 Long-term vision: **AI-native platforms & emergent intelligence systems.**
+
+</td>
+
+<td width="40%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## 📊 Profile Snapshot
 
