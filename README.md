@@ -13,13 +13,17 @@
 <tr>
 <td width="60%">
 
-🔭 I'm currently working on Breaking Ice, A community based ice-breaking and conversation starter platform.
-🌱 I'm currently learning Rust
-🤝 I'm looking for help with AI World Models
-💬 Ask me about **Python, C/C++, Java, Rust **
-📫 How to reach me bhavikdeepawar007@gmail.com
-⚡ Fun fact I'm a passionate cinephile who finds joy in watching and discussing movies.
+🧠 Building **AI-native systems** and scalable backend architectures  
 
+🛡️ Previously built **Sanctum** — a multi-tenant SaaS backend with RBAC, JWT, and tenant isolation  
+
+🤖 Working on **RAG pipelines, LLM workflows, and intelligent data systems**  
+
+🧊 Developing **Breaking Ice** — a platform for real, unscripted human interaction  
+
+⚙️ Focused on **systems that are modular, resilient, and evolve over time**  
+
+🎯 Exploring **AI world models & emergent intelligence**
 
 </td>
 
