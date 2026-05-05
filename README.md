@@ -1,109 +1,59 @@
-<h1 align="center">Hey 👋, I'm Bhavik Pawar</h1>
-<h3 align="center">AI Engineer • Backend Systems Builder • SaaS Architect</h3>
+<h1 align="center">Bhavik Pawar</h1>
+<h3 align="center">Building Intelligence. Engineering Systems. Designing Emergence.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhavikPawar29&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="YOUR_CYBERPUNK_IMAGE_LINK" width="100%" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧬 Who Am I
 
-- 🏗️ Building **AI-native systems & scalable backend architectures**
-- 🔭 Currently working on **Breaking Ice** — a community-driven conversation platform
-- 🛡️ Built **Sanctum** — multi-tenant SaaS backend with RBAC & JWT auth
-- 🤖 Developing **RAG pipelines, ML systems, and dataset workflows**
-- 🌱 Exploring **Rust & AI world models**
-- 🎬 Cinephile — I analyze films like systems
+> Somewhere between **code and cognition**  
+> I build systems that don’t just run — they **evolve**
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/BhavikPawar29" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/bhavik-pawar-6022a2289" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://instagram.com/bhavik.d.h.pawar" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="https://twitter.com/@BhavikPawar1899" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-</p>
+- 🛠️ Backend Systems Engineer (FastAPI, PostgreSQL, Redis)
+- 🤖 AI/ML Builder (RAG, ML Pipelines, Data Systems)
+- ⚙️ Focused on **AI-native architectures**
+- 🧠 Exploring **world models & emergent intelligence**
+- 🎬 Cinephile — I study storytelling like system design
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Current Work
 
-### 💻 Core Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,rust,sql" />
-</p>
+### 🛡️ Sanctum — Multi-Tenant SaaS System
+- JWT Auth + RBAC
+- Tenant isolation architecture
+- FastAPI + PostgreSQL + Redis
+- Dockerized & deployed
 
-### ⚙️ Backend & Systems
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,flask" />
-</p>
-
-### 🧠 AI / ML & Data
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda" />
-<img src="https://cdn.simpleicons.org/langchain" height="48"/>
-<img src="https://cdn.simpleicons.org/huggingface" height="48"/>
-</p>
-
-### 🗄️ Databases & Infra
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,docker,aws" />
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
----
-
-## 🔥 Featured Work
-
-### 🛡️ Sanctum — Multi-Tenant SaaS Backend
-- FastAPI + PostgreSQL + Redis + Docker
-- JWT Authentication + RBAC
-- Tenant isolation & scalable API design
-- Cloud deployment (Render, Supabase, Upstash)
-
----
-
-### 📄 VectorDoc — RAG Document Q&A System
+### 🧠 VectorDoc — RAG System
 - LLM-powered document querying
-- Embeddings + vector search (ChromaDB)
-- Semantic retrieval pipeline
+- Embeddings + semantic retrieval
+- Built for intelligent search
 
 ---
 
-### 📈 ML Stock Prediction Pipeline
-- RSI, MACD, OBV-based features
-- NIFTY50 dataset modeling
-- Focus on optimization & feature engineering
+## 🧰 Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,rust,js,fastapi,nodejs,django,flask,postgres,mysql,redis,docker,aws,tensorflow,pytorch,sklearn,git,linux" />
+</p>
 
 ---
 
-## 📄 Resume
+## 🌐 Connect
 
-📌 **[View Resume](https://drive.google.com/file/d/1tcW2O0CgKILDfWD5GAtg6P0lp4UvLBi2/view?usp=drive_link)**  
-(Based on latest experience) :contentReference[oaicite:2]{index=2}  
+<p align="center">
+<a href="https://github.com/BhavikPawar29"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://www.linkedin.com/in/bhavik-pawar-6022a2289"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/bhavik.d.h.pawar"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 System Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhavikPawar29&show_icons=true&theme=tokyonight" />
@@ -113,12 +63,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikPawar29&theme=tokyonight" />
 </p>
 
+---
+
+## 🧠 Philosophy
+
+> “The future belongs to systems that learn, adapt, and act autonomously.”
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavikPawar29&layout=compact&theme=tokyonight" />
+  <img src="YOUR_SPIDERMAN_IMAGE_LINK" width="400"/>
 </p>
 
 ---
 
-## ✨ Current Focus
+<p align="center">
+  <img src="YOUR_RED_BACK_IMAGE_LINK" width="100%" />
+</p>
 
-> Building systems where **intelligence emerges — not just executes**
+---
+
+<h3 align="center">⚡ Genesis in Progress</h3>
