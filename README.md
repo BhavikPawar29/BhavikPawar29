@@ -41,12 +41,13 @@
 
 ## ⚡ About My Work
 
-- 🛡️ Building **Sanctum** — Multi-Tenant SaaS Backend (FastAPI, PostgreSQL, Redis)
-- 🤖 Developing **RAG pipelines & AI systems (VectorDoc)**
-- 🧊 Creating **Breaking Ice** — community-driven interaction platform
-- 🧠 Exploring **AI World Models & Emergent Intelligence**
-- ⚙️ Strong focus on **backend systems + scalable architecture**
-- 🎯 I build systems, not just projects
+-  I'm currently working on Breaking Ice, A community based ice-breaking and conversation starter platform.
+-  I'm currently learning Rust
+-  I'm looking for help with AI World Models
+-  Ask me about **Python, C/C++, Java, Rust **
+-  How to reach me bhavikdeepawar007@gmail.com
+-  Fun fact I'm a passionate cinephile who finds joy in watching and discussing movies.
+
 
 ---
 
@@ -182,5 +183,5 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 <!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg8.jpg" width="600"/>
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg8.jpg" width="900"/>
 </p>
