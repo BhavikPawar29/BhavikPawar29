@@ -173,7 +173,9 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 ## ☕ Portfolio
 
 <p align="center">
-  <a href="#"><img src="https://bhavik-pawar.vercel.app/"/></a>
+  <a href="https://bhavik-pawar.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-111?style=for-the-badge" />
+  </a>
 </p>
 
 ---
