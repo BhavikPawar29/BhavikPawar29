@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg2.jpg" />
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/spideman.jpg" />
 </p>
 
 <h2 align="center">Namaste 🙏 I'm Bhavik Pawar</h2>
@@ -158,15 +158,15 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 <img src="https://img.shields.io/badge/IntelliJ-111?style=for-the-badge&logo=intellijidea"/>
 </p>
 
-## ☕ Support Me
+## ☕ Portfolio
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge"/></a>
+  <a href="#"><img src="https://bhavik-pawar.vercel.app/"/></a>
 </p>
 
 ---
 
 <!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/spiderman.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg5" width="500"/>
 </p>
