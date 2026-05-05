@@ -98,17 +98,65 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 ## 🧱 Tech Stack
 
+### 💻 Languages
 <p align="center">
 <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis"/>
-<img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Rust-111?style=for-the-badge&logo=rust"/>
+<img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
+
+### ⚙️ Backend & Systems
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧠 AI / ML & Data
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-111?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/XGBoost-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-111?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Databases & Infrastructure
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQLite-111?style=for-the-badge&logo=sqlite"/>
+<img src="https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis"/>
+<img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+---
+
+### 🧰 Tools & Environment
+<p align="center">
+<img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Jupyter-111?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/IntelliJ-111?style=for-the-badge&logo=intellijidea"/>
+</p>
 
 ## ☕ Support Me
 
