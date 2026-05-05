@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/spiderman.jpeg" />
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/spiderman.jpg" />
 </p>
 
 <h2 align="center">Namaste 🙏 I'm Bhavik Pawar</h2>
@@ -168,5 +168,5 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 <!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg5" width="500"/>
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg5.jpg" width="500"/>
 </p>
