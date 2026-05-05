@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, I'm Bhavik Pawar</h1>
-<h3 align="center">AI/ML Engineer • Builder • Cinephile</h3>
+<h3 align="center">AI Engineer • Backend Systems Builder • SaaS Architect</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently building **Genomic Sequence Analysis & Functional Annotation Software**
-- 🎓 Pursuing **B.E. @ Guru Gobind Singh College of Engineering & Research Centre**
-- 🧠 Focused on **AI/ML, Systems, and Scalable Backend Design**
-- 💬 Ask me about **Python, C++, Java, AI/ML, Backend Systems**
-- 🎬 Fun fact: *I break down movies like code — structure, flow, meaning*
+- 🏗️ Built **multi-tenant SaaS systems** with FastAPI, PostgreSQL & Redis
+- 🤖 Working on **AI systems, RAG pipelines, and dataset engineering**
+- ⚙️ Strong focus on **scalable backend + intelligent systems**
+- 🎓 B.E. Computer Engineering (Pursuing)
 
 ---
 
@@ -30,31 +30,59 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,rust,sql" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Backend & Systems
 <p>
-<img src="https://skillicons.dev/icons?i=flask,django,docker,git" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
 </p>
 
-### 📊 AI / Data
+### 🧠 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### 🗄️ Databases & Infra
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📂 Projects
+## 🔥 Featured Projects
 
-🔗 Explore all my work here:  
-👉 **[GitHub Portfolio](https://github.com/BhavikPawar29)**
+### 🛡️ Sanctum — Multi-Tenant SaaS Backend
+- Built using **FastAPI, PostgreSQL, Redis, Docker**
+- Implemented **JWT authentication + RBAC**
+- Designed scalable tenant architecture & REST APIs
+- Deployed on **Render, Supabase, Upstash**
+
+---
+
+### 📄 VectorDoc — RAG Document Q&A System
+- Built RAG pipeline using **LLMs + ChromaDB**
+- Implemented **semantic search + embeddings**
+- Enables intelligent querying over documents
+
+---
+
+### 📈 Stock Prediction ML Pipeline
+- Used **RSI, MACD, OBV indicators**
+- Applied **ML models on NIFTY50 dataset**
+- Focus on feature engineering & optimization
 
 ---
 
 ## 📄 Resume
 
-📌 **[View My Resume](https://drive.google.com/file/d/1tcW2O0CgKILDfWD5GAtg6P0lp4UvLBi2/view?usp=drive_link)**
+📌 **[View My Resume](https://drive.google.com/file/d/1tcW2O0CgKILDfWD5GAtg6P0lp4UvLBi2/view?usp=drive_link)**  
+(Updated based on latest experience) :contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -76,4 +104,5 @@
 
 ## ✨ Current Focus
 
-> Building intelligent systems that **don’t just work — they evolve.**
+> Building **AI-native systems + scalable backend infrastructure**  
+> Long-term vision: **Emergent intelligence platforms & autonomous systems**
