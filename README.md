@@ -24,7 +24,7 @@
 </td>
 
 <td width="40%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="100%"/>
 </td>
 </tr>
 </table>
@@ -182,5 +182,5 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 <!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg.jpg" width="500"/>
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/resting.jpg" width="500"/>
 </p>
