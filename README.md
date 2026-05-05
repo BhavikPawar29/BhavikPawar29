@@ -2,7 +2,7 @@
 <h3 align="center">Building Intelligence. Engineering Systems. Designing Emergence.</h3>
 
 <p align="center">
-  <img src="YOUR_CYBERPUNK_IMAGE_LINK" width="100%" />
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg2.jpg" width="100%" />
 </p>
 
 ---
