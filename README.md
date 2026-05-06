@@ -56,11 +56,13 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BhavikPawar29&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BhavikPawar29&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BhavikPawar29&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavikPawar29&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BhavikPawar29&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
