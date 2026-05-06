@@ -189,5 +189,5 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 <!-- FOOTER IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg8.jpg" width="800" height="500"/>
+  <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/bg8.jpg" width="900" height="500"/>
 </p>
