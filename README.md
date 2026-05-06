@@ -36,7 +36,43 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/bhavikdeepawar007@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavikdeepawar007@gmail.com)
 
 ⚡ &nbsp;**Fun Fact**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Passionate cinephile — I find joy in watching & discussing movies 🎬
+&nbsp;&nbsp;&nbsp;&nbsp;## 🧠 About Me
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=435&lines=Building+Breaking+Ice+🧊;Learning+Rust+🦀;Exploring+AI+World+Models+🤖;Passionate+Cinephile+🎬)](https://git.io/typing-svg)
+
+<br/>
+
+🔭 &nbsp;**Working On**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[Breaking Ice](https://github.com/BhavikPawar29) — community ice-breaking platform
+
+🌱 &nbsp;**Currently Learning**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+🤝 &nbsp;**Seeking Help With**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![AI](https://img.shields.io/badge/AI_World_Models-6e40c9?style=flat&logo=OpenAI&logoColor=white)
+
+💬 &nbsp;**Ask Me About**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+📫 &nbsp;**Reach Me At**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/bhavikdeepawar007@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavikdeepawar007@gmail.com)
+
+⚡ &nbsp;**Fun Fact**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a passionate cinephile who finds joy in watching and discussing movies. 🎬
+
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="100%"/>
+</td>
+</tr>
+</table> 🎬
 
 </td>
 <td width="50%" align="center" valign="top">
