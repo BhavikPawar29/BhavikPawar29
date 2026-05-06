@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="45%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=435&lines=Building+Breaking+Ice+🧊;Learning+Rust+🦀;Exploring+AI+World+Models+🤖;Passionate+Cinephile+🎬)](https://git.io/typing-svg)
 
@@ -25,11 +25,12 @@
 | ⚡ **Fun Fact** | Passionate cinephile — I find joy in watching & discussing movies 🎬 |
 
 </td>
-<td width="45%">
+<td width="55%">
 <img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="100%"/>
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📊 Profile Snapshot
