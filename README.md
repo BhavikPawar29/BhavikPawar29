@@ -8,27 +8,29 @@
 ---
 
 ## 🧠 About Me
+
 <table>
 <tr>
-<td width="45%">
+<td valign="top" width="50%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=435&lines=Building+Breaking+Ice+🧊;Learning+Rust+🦀;Exploring+AI+World+Models+🤖;Passionate+Cinephile+🎬)](https://git.io/typing-svg)
 
-| | |
-|---|---|
-| 🔭 **Working On** | [Breaking Ice](https://github.com/BhavikPawar29) — A community-based ice-breaking & conversation starter platform |
-| 🌱 **Learning** | `Rust` 🦀 |
-| 🤝 **Seeking Help With** | AI World Models |
-| 💬 **Ask Me About** | `Python` `C/C++` `Java` `Rust` |
-| 📫 **Reach Me At** | bhavikdeepawar007@gmail.com |
-| ⚡ **Fun Fact** | I'm a passionate cinephile who finds joy in watching and discussing movies. 🎬 |
+<br/>
+
+🔭 &nbsp;**Working On** — [Breaking Ice](https://github.com/BhavikPawar29) — community ice-breaking platform<br/>
+🌱 &nbsp;**Learning** — `Rust` 🦀<br/>
+🤝 &nbsp;**Seeking Help With** — AI World Models<br/>
+💬 &nbsp;**Ask Me About** — `Python` `C/C++` `Java` `Rust`<br/>
+📫 &nbsp;**Reach Me At** — bhavikdeepawar007@gmail.com<br/>
+⚡ &nbsp;**Fun Fact** — I'm a passionate cinephile who finds joy in watching and discussing movies. 🎬
 
 </td>
-<td width="55%" align="center">
-<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="480"/>
+<td width="50%" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="100%"/>
 </td>
 </tr>
 </table>
+
 
 ## 📊 Profile Snapshot
 
