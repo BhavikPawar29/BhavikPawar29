@@ -8,10 +8,9 @@
 ---
 
 ## 🧠 About Me
-
 <table>
 <tr>
-<td width="40%">
+<td width="45%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=435&lines=Building+Breaking+Ice+🧊;Learning+Rust+🦀;Exploring+AI+World+Models+🤖;Passionate+Cinephile+🎬)](https://git.io/typing-svg)
 
@@ -25,8 +24,8 @@
 | ⚡ **Fun Fact** | I'm a passionate cinephile who finds joy in watching and discussing movies. 🎬 |
 
 </td>
-<td width="60%">
-<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="200%"/>
+<td width="55%" align="center">
+<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="480"/>
 </td>
 </tr>
 </table>
