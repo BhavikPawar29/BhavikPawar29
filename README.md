@@ -22,11 +22,10 @@
 | 🤝 **Seeking Help With** | AI World Models |
 | 💬 **Ask Me About** | `Python` `C/C++` `Java` `Rust` |
 | 📫 **Reach Me At** | bhavikdeepawar007@gmail.com |
-| ⚡ **Fun Fact** | Passionate cinephile — I find joy in watching & discussing movies 🎬 |
+| ⚡ **Fun Fact** | I'm a passionate cinephile who finds joy in watching and discussing movies. 🎬 |
 
-</td>
-<td width="55%">
-<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="100%"/>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/BhavikPawar29/BhavikPawar29/main/assets/programmer.jpg" width="125%"/>
 </td>
 </tr>
 </table>
