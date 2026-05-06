@@ -36,7 +36,7 @@
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/bhavikdeepawar007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhavikdeepawar007@gmail.com)
 
 ![Fun Fact](https://img.shields.io/badge/Fun_Fact-0d1117?style=for-the-badge&labelColor=e3a517&color=0d1117)<br/>
-&nbsp;&nbsp;Passionate cinephile — watching & discussing movies
+&nbsp;&nbsp;I'm a passionate cinephile who finds joy in watching and discussing movies.
 
 </td>
 <td width="50%" align="center" valign="top">
