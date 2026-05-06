@@ -6,7 +6,6 @@
 <h2 align="center">Hello There !!! I'm Bhavik Pawar</h2>
 
 ---
-
 ## 🧠 About Me
 
 <table>
@@ -15,22 +14,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=435&lines=Building+Breaking+Ice+🧊;Learning+Rust+🦀;Exploring+AI+World+Models+🤖;Passionate+Cinephile+🎬)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 ![Working On](https://img.shields.io/badge/Working_On-0d1117?style=for-the-badge&labelColor=238636&color=0d1117)<br/>
 &nbsp;&nbsp;[Breaking Ice](https://github.com/BhavikPawar29) — community ice-breaking platform
 
-<br/>
-
 ![Learning](https://img.shields.io/badge/Learning-0d1117?style=for-the-badge&labelColor=1f6feb&color=0d1117)<br/>
 &nbsp;&nbsp;![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<br/>
-
 ![Seeking Help](https://img.shields.io/badge/Seeking_Help_With-0d1117?style=for-the-badge&labelColor=6e40c9&color=0d1117)<br/>
 &nbsp;&nbsp;![AI](https://img.shields.io/badge/AI_World_Models-6e40c9?style=flat-square&logo=OpenAI&logoColor=white)
-
-<br/>
 
 ![Ask Me](https://img.shields.io/badge/Ask_Me_About-0d1117?style=for-the-badge&labelColor=b94848&color=0d1117)<br/>
 &nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,15 +31,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-<br/>
-
 ![Contact](https://img.shields.io/badge/Reach_Me_At-0d1117?style=for-the-badge&labelColor=D14836&color=0d1117)<br/>
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/bhavikdeepawar007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhavikdeepawar007@gmail.com)
 
-<br/>
-
 ![Fun Fact](https://img.shields.io/badge/Fun_Fact-0d1117?style=for-the-badge&labelColor=e3a517&color=0d1117)<br/>
-&nbsp;&nbsp;Passionate cinephile — I find joy in watching & discussing movies
+&nbsp;&nbsp;I'm a passionate cinephile who finds joy in watching and discussing movies.
 
 </td>
 <td width="50%" align="center" valign="top">
