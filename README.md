@@ -17,12 +17,26 @@
 
 <br/>
 
-🔭 &nbsp;**Working On** — [Breaking Ice](https://github.com/BhavikPawar29) — community ice-breaking platform<br/>
-🌱 &nbsp;**Learning** — `Rust` 🦀<br/>
-🤝 &nbsp;**Seeking Help With** — AI World Models<br/>
-💬 &nbsp;**Ask Me About** — `Python` `C/C++` `Java` `Rust`<br/>
-📫 &nbsp;**Reach Me At** — bhavikdeepawar007@gmail.com<br/>
-⚡ &nbsp;**Fun Fact** — I'm a passionate cinephile who finds joy in watching and discussing movies. 🎬
+🔭 &nbsp;**Working On**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[Breaking Ice](https://github.com/BhavikPawar29) — community ice-breaking platform
+
+🌱 &nbsp;**Currently Learning**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+🤝 &nbsp;**Seeking Help With**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![AI](https://img.shields.io/badge/AI_World_Models-6e40c9?style=flat&logo=OpenAI&logoColor=white)
+
+💬 &nbsp;**Ask Me About**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+📫 &nbsp;**Reach Me At**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/bhavikdeepawar007@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhavikdeepawar007@gmail.com)
+
+⚡ &nbsp;**Fun Fact**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Passionate cinephile — I find joy in watching & discussing movies 🎬
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -30,7 +44,6 @@
 </td>
 </tr>
 </table>
-
 
 ## 📊 Profile Snapshot
 
