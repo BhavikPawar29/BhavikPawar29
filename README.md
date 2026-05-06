@@ -6,7 +6,8 @@
 <h2 align="center">Hello There !!! I'm Bhavik Pawar</h2>
 
 ---
-## 🧠 About Me
+
+## ![About Me](https://img.shields.io/badge/About_Me-0d1117?style=for-the-badge&labelColor=238636&color=0d1117)
 
 <table>
 <tr>
@@ -35,7 +36,7 @@
 &nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/bhavikdeepawar007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhavikdeepawar007@gmail.com)
 
 ![Fun Fact](https://img.shields.io/badge/Fun_Fact-0d1117?style=for-the-badge&labelColor=e3a517&color=0d1117)<br/>
-&nbsp;&nbsp;I'm a passionate cinephile who finds joy in watching and discussing movies.
+&nbsp;&nbsp;Passionate cinephile — watching & discussing movies
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -44,7 +45,9 @@
 </tr>
 </table>
 
-## 📊 Profile Snapshot
+---
+
+## ![Profile Snapshot](https://img.shields.io/badge/Profile_Snapshot-0d1117?style=for-the-badge&labelColor=6e40c9&color=0d1117)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-6000+-blue?style=for-the-badge"/>
@@ -52,7 +55,9 @@
   <img src="https://img.shields.io/badge/Followers-30-green?style=for-the-badge"/>
 </p>
 
-## 🔗 Connect With Me
+---
+
+## ![Connect](https://img.shields.io/badge/Connect_With_Me-0d1117?style=for-the-badge&labelColor=1f6feb&color=0d1117)
 
 <p align="center">
 <a href="mailto:bhavikdeepawar007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
@@ -63,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Status
+## ![GitHub Status](https://img.shields.io/badge/GitHub_Status-0d1117?style=for-the-badge&labelColor=e3a517&color=0d1117)
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-one-phi-90.vercel.app/api?username=BhavikPawar29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -76,20 +81,17 @@
 
 ---
 
-## 🧰 Languages & Tools I Work With
+## ![Languages and Tools](https://img.shields.io/badge/Languages_&_Tools-0d1117?style=for-the-badge&labelColor=238636&color=0d1117)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,rust,sql" />
 </p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
 </p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,docker,aws" />
 </p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 <img src="https://cdn.simpleicons.org/langchain" height="48"/>
@@ -98,22 +100,22 @@
 
 ---
 
-## ⭐ Featured Projects
+## ![Featured Projects](https://img.shields.io/badge/Featured_Projects-0d1117?style=for-the-badge&labelColor=b94848&color=0d1117)
 
-### 🛡️ Sanctum
+![Sanctum](https://img.shields.io/badge/Sanctum-0d1117?style=flat-square&labelColor=6e40c9&color=0d1117)<br/>
 Multi-tenant SaaS backend with authentication, RBAC, and scalable architecture.
 
-### 📄 VectorDoc
+![VectorDoc](https://img.shields.io/badge/VectorDoc-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)<br/>
 RAG-based document intelligence system using embeddings + LLMs.
 
-### 📈 Stock Prediction Pipeline
+![Stock Pipeline](https://img.shields.io/badge/Stock_Prediction_Pipeline-0d1117?style=flat-square&labelColor=238636&color=0d1117)<br/>
 ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 ---
 
-## 🧱 Tech Stack
+## ![Tech Stack](https://img.shields.io/badge/Tech_Stack-0d1117?style=for-the-badge&labelColor=e3a517&color=0d1117)
 
-### 💻 Languages
+### ![Languages](https://img.shields.io/badge/Languages-0d1117?style=flat-square&labelColor=1f6feb&color=0d1117)
 <p align="center">
 <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B"/>
@@ -125,7 +127,7 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 ---
 
-### ⚙️ Backend & Systems
+### ![Backend](https://img.shields.io/badge/Backend_&_Systems-0d1117?style=flat-square&labelColor=238636&color=0d1117)
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django"/>
@@ -136,7 +138,7 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 ---
 
-### 🧠 AI / ML & Data
+### ![AI ML](https://img.shields.io/badge/AI_/_ML_&_Data-0d1117?style=flat-square&labelColor=6e40c9&color=0d1117)
 <p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch"/>
@@ -150,7 +152,7 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 ---
 
-### 🗄️ Databases & Infrastructure
+### ![Databases](https://img.shields.io/badge/Databases_&_Infra-0d1117?style=flat-square&labelColor=b94848&color=0d1117)
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql"/>
@@ -163,7 +165,7 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 
 ---
 
-### 🧰 Tools & Environment
+### ![Tools](https://img.shields.io/badge/Tools_&_Environment-0d1117?style=flat-square&labelColor=e3a517&color=0d1117)
 <p align="center">
 <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
@@ -173,7 +175,9 @@ ML pipeline using RSI, MACD, OBV indicators for NIFTY50.
 <img src="https://img.shields.io/badge/IntelliJ-111?style=for-the-badge&logo=intellijidea"/>
 </p>
 
-## 🔗 Portfolio
+---
+
+## ![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&labelColor=D14836&color=0d1117)
 
 <p align="center">
   <a href="https://bhavik-pawar.vercel.app/">
